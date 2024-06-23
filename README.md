@@ -1,2 +1,1 @@
-# nasdaq-stocks-volatility
-Volatility of Apple and Microsoft stocks during 2020 - 2024
+# Volatility of Apple and Microsoft stocks during 2020 - 2024
