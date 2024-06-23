@@ -48,7 +48,7 @@ server = app.server
 # Define the layout of the app
 app.layout = html.Div([
 
-    html.H1("Volatility of principal NASDAQ stocks"),
+    html.H1("Volatility of principal Nasdaq stocks"),
     dcc.Graph(id='volatility-graph'),
 
 ])
