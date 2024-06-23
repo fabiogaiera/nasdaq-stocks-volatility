@@ -43,6 +43,7 @@ meta_df['Volatility'] = meta_df['Daily Return'].rolling(window=21).std()
 
 # Initialize the Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # Define the layout of the app
 app.layout = html.Div([
